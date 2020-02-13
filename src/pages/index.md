@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: On The Journey
+image: /img/My-Journey-Could-OriginalWithCut-774x1376-90-CardBanner.Jpeg
+heading: Enjoy the Journey!
+subheading: Postcasts series with Kathy and Sojaida
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
